@@ -60,3 +60,17 @@ Data cleaning and processing were performed using SQL. The steps involved:
 
 <br>
 <br>
+
+
+## Exploratory Data Analysis
+Exploratory Data Analysis (EDA) was conducted to understand the data better. Here are some key visualizations:
+<br>
+
+
+![Rides by Month](images/charts/rides_by_month.png)
+*Figure 1: Number of Rides by Month*
+
+
+<br>
+![Average Ride Duration](images/charts/avg_ride_duration.png)
+*Figure 2: Average Ride Duration by User Type*
