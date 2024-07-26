@@ -26,6 +26,7 @@ Analyze bike ride data to differentiate casual riders from premium members and d
 This project aims to analyze bike rides data to determine the difference between casual riders and premium members. The goal is to increase profits by converting casual riders into premium members.
 
 <br>
+
 ## Data Collection
 
 
@@ -39,6 +40,7 @@ The dataset consists of multiple CSV files for each month. The data includes the
 - Bike Type
 
 <br>
+
 ## Data Cleaning and Processing
 
 
@@ -53,7 +55,7 @@ Data cleaning and processing were performed using SQL. The steps involved:
 <br>
 
 <p align="center">
-  <img width="550" height="450" src="https://github.com/user-attachments/assets/4a7ba61f-c80b-4b42-a7d9-459d2fd12a92">
+  <img width="450" height="350" src="https://github.com/user-attachments/assets/4a7ba61f-c80b-4b42-a7d9-459d2fd12a92">
 </p>
 
 <br>
