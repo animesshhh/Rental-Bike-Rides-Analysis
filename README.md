@@ -27,6 +27,8 @@ This project aims to analyze bike rides data to determine the difference between
 
 <br>
 ## Data Collection
+
+
 The dataset consists of multiple CSV files for each month. The data includes the following attributes:
 - Ride ID
 - Ride Type (casual or member)
@@ -38,7 +40,10 @@ The dataset consists of multiple CSV files for each month. The data includes the
 
 <br>
 ## Data Cleaning and Processing
+
+
 Data cleaning and processing were performed using SQL. The steps involved:
+
 1. Removing duplicates
 2. Handling missing values
 3. Converting data types
