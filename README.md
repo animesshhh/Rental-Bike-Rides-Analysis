@@ -77,8 +77,8 @@ Exploratory Data Analysis (EDA) was conducted to understand the data better. Her
 
 ![Rides by Month](visualizations/chart/Monthly_Ride_Trends.png)
 
-<p align ="center"> 
-  *Figure 1: Number of Rides by Month* 
+<p align="center"> 
+  Figure 1: Number of Rides by Month
 </p>
 
 <br>
@@ -88,7 +88,7 @@ Exploratory Data Analysis (EDA) was conducted to understand the data better. Her
 
 
 <p align="center"> 
-  *Figure 2: Average Ride Duration by User Type* 
+  Figure 2: Average Ride Duration by User Type
 </p>
 
 
@@ -110,14 +110,15 @@ Based on the EDA, several insights were derived. Some key findings include:
 
 
 <p align="center"> 
-_Figure 3: Ride Duration Distribution_
+ Figure 3: Ride Duration Distribution 
 </p>
 
+
+<br>
 <br>
 
 Detailed visualizations and reports can be found in the [visualizations](visualizations) and [docs/reports](docs/reports) directory.
 
-<br>
 <br>
 
 
