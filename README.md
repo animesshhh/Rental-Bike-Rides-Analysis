@@ -2,6 +2,11 @@
 
 <br>
 <br>
+Analyze bike ride data to differentiate casual riders from premium members and develop strategies to convert casual riders, enhancing profitability. This project includes data cleaning, exploratory data analysis, and insightful visualizations.
+
+<br>
+<br>
+
 
 <p align="center">
   <img width="550" height="450" src="https://github.com/user-attachments/assets/dbf3029b-bc25-4803-91d8-7517054ac7a3">
@@ -56,9 +61,10 @@ Data cleaning and processing were performed using SQL and Excel. The steps invol
 4. Creating new features
 
 
+
 <br>
 <p align="center">
-  <img width="550" height="450" src="https://github.com/user-attachments/assets/7c306aac-c9a1-4c3a-92d4-acbad7416110">
+  <img width="450" height="350" src="https://github.com/user-attachments/assets/8b0fb85b-4e0f-47ef-9f93-de68a9ade4f8">
 </p>
 <br>
 
@@ -69,8 +75,7 @@ Exploratory Data Analysis (EDA) was conducted to understand the data better. Her
 
 ![Rides by Month](visualizations/chart/Monthly_Ride_Trends.png)
 
-
-*Figure 1: Number of Rides by Month*
+<p align ="center"> *Figure 1: Number of Rides by Month* </p>
 
 <br>
 <br>
@@ -78,7 +83,7 @@ Exploratory Data Analysis (EDA) was conducted to understand the data better. Her
 ![Average Ride Duration](visualizations/chart/KPIs.png)
 
 
-*Figure 2: Average Ride Duration by User Type*
+<p align="center"> *Figure 2: Average Ride Duration by User Type* </p>
 
 
 <br>
@@ -96,9 +101,9 @@ Based on the EDA, several insights were derived. Some key findings include:
 ![Ride Duration Distribution](visualizations/chart/Ride_Duration_Distribution.png)
 
 
-*Figure 3: Ride Duration Distribution*
+<p align="center"> *Figure 3: Ride Duration Distribution* </p>
 
-Detailed visualizations and reports can be found in the `visualizations/` and `docs/reports` directory.
+Detailed visualizations and reports can be found in the [`visualizations/`](visualizations) and [`docs/reports`](docs/reports) directory.
 <br>
 <br>
 
