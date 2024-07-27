@@ -1,17 +1,18 @@
 # Bike Rides Analytics Project
 
 <br>
-<br>
 Analyze bike ride data to differentiate casual riders from premium members and develop strategies to convert casual riders, enhancing profitability. This project includes data cleaning, exploratory data analysis, and insightful visualizations.
 
 <br>
 <br>
-
+<br>
 
 <p align="center">
   <img width="550" height="450" src="https://github.com/user-attachments/assets/dbf3029b-bc25-4803-91d8-7517054ac7a3">
 </p>
 
+<br>
+<br>
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -22,6 +23,7 @@ Analyze bike ride data to differentiate casual riders from premium members and d
 6. [Conclusion](#conclusion)
 7. [References](#references)
 
+<br>
 <br>
 <br>
 
@@ -97,12 +99,14 @@ Based on the EDA, several insights were derived. Some key findings include:
 
 - Weekends see a higher number of casual riders compared to weekdays.
 
-
+<br>
+<br>
 ![Ride Duration Distribution](visualizations/chart/Ride_Duration_Distribution.png)
 
 
 <p align="center"> *Figure 3: Ride Duration Distribution* </p>
 
+<br>
 Detailed visualizations and reports can be found in the [`visualizations/`](visualizations) and [`docs/reports`](docs/reports) directory.
 <br>
 <br>
