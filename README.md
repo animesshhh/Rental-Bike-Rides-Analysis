@@ -105,11 +105,12 @@ Based on the EDA, several insights were derived. Some key findings include:
 
 <br>
 <br>
+
 ![Ride Duration Distribution](visualizations/chart/Ride_Duration_Distribution.png)
 
 
 <p align="center"> 
-  *Figure 3: Ride Duration Distribution*
+_Figure 3: Ride Duration Distribution_
 </p>
 
 <br>
