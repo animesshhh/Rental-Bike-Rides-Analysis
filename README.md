@@ -66,7 +66,7 @@ Data cleaning and processing were performed using SQL and Excel. The steps invol
 
 <br>
 <p align="center">
-  <img width="450" height="350" src="https://github.com/user-attachments/assets/8b0fb85b-4e0f-47ef-9f93-de68a9ade4f8">
+  <img width="300" height="250" src="https://github.com/user-attachments/assets/8b0fb85b-4e0f-47ef-9f93-de68a9ade4f8">
 </p>
 <br>
 
@@ -76,16 +76,16 @@ Exploratory Data Analysis (EDA) was conducted to understand the data better. Her
 <br> 
 
 ![Rides by Month](visualizations/chart/Monthly_Ride_Trends.png)
-
 <p align="center"> 
   Figure 1: Number of Rides by Month
 </p>
 
+
+<br>
 <br>
 <br>
 
 ![Average Ride Duration](visualizations/chart/KPIs.png)
-
 
 <p align="center"> 
   Figure 2: Average Ride Duration by User Type
