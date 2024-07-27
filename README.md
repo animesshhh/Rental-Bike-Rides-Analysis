@@ -67,10 +67,4 @@ Exploratory Data Analysis (EDA) was conducted to understand the data better. Her
 <br>
 
 
-![Rides by Month](images/charts/rides_by_month.png)
-*Figure 1: Number of Rides by Month*
 
-
-<br>
-![Average Ride Duration](images/charts/avg_ride_duration.png)
-*Figure 2: Average Ride Duration by User Type*
