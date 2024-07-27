@@ -1,0 +1,120 @@
+# Bike Rides Analytics Project
+
+<br>
+<br>
+
+<p align="center">
+  <img width="550" height="450" src="https://github.com/user-attachments/assets/dbf3029b-bc25-4803-91d8-7517054ac7a3">
+</p>
+
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Data Collection](#data-collection)
+3. [Data Cleaning and Processing](#data-cleaning-and-processing)
+4. [Exploratory Data Analysis](#exploratory-data-analysis)
+5. [Insights and Visualizations](#insights-and-visualizations)
+6. [Conclusion](#conclusion)
+7. [References](#references)
+
+<br>
+<br>
+
+## Introduction
+
+This project aims to analyze bike rides data to determine the difference between casual riders and premium members. The goal is to increase profits by converting casual riders into premium members.
+
+
+<br>
+<br>
+
+## Data Collection
+
+The dataset consists of multiple CSV files for each month. The data includes the following attributes:
+
+
+- Ride ID
+- Ride Type (casual or member)
+- Start Time
+- End Time
+- Start Station
+- End Station
+- Bike Type
+
+
+<br>
+<br>
+
+## Data Cleaning and Processing
+
+Data cleaning and processing were performed using SQL and Excel. The steps involved:
+
+
+1. Removing duplicates
+2. Handling missing values
+3. Converting data types
+4. Creating new features
+
+
+<br>
+<p align="center">
+  <img width="550" height="450" src="https://github.com/user-attachments/assets/7c306aac-c9a1-4c3a-92d4-acbad7416110">
+</p>
+<br>
+
+## Exploratory Data Analysis
+Exploratory Data Analysis (EDA) was conducted to understand the data better. Here are some key visualizations:
+
+<br> 
+
+![Rides by Month](visualizations/chart/Monthly_Ride_Trends.png)
+
+
+*Figure 1: Number of Rides by Month*
+
+<br>
+<br>
+
+![Average Ride Duration](visualizations/chart/KPIs.png)
+
+
+*Figure 2: Average Ride Duration by User Type*
+
+
+<br>
+<br>
+
+## Insights and Visualizations
+
+Based on the EDA, several insights were derived. Some key findings include:
+
+- Casual riders tend to have longer ride durations.
+
+- Weekends see a higher number of casual riders compared to weekdays.
+
+
+![Ride Duration Distribution](visualizations/chart/Ride_Duration_Distribution.png)
+
+
+*Figure 3: Ride Duration Distribution*
+
+Detailed visualizations and reports can be found in the `visualizations/` and `docs/reports` directory.
+<br>
+<br>
+
+
+## Conclusion
+
+The analysis provides actionable insights that can help increase the conversion rate of casual riders to premium members.
+
+<br>
+
+
+## References
+
+- [Project Documentation](docs/reports/Project_Documentation.pdf)
+- [Data Cleaning Guide](docs/guides/Cleaning_log.pdf)
+- [Exploratory Data Analysis SQL Script](src/Bike_Rides.sql)
+- [Scope of Work](docs/reports/Scope_Of_Work.pdf)
+- [Final Presentation](docs/reports/Final_Presentation.pdf)
+
